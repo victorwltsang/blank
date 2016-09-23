@@ -1,1 +1,1 @@
-# blank
+Welcome to my page. You must be wondering what does this site do, it really doesn't do much. I made this project just for fun. The only purpose is to help me understand Google Analytics and to see the bounce rate for this site. To see how long people would stay after they see my questionable statement. Maybe they expected something awesome to happen. Now do this site a favor and share the link to this project.
